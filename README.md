@@ -42,3 +42,12 @@ The entry point of the program.
 1. **Clone this repository:**  
    ```sh
    git clone https://github.com/your-username/library-management-system.git
+
+2. **Navigate to the project directory:**  
+   cd library-management-system
+
+3. **Compile the Java files:**  
+   javac Main.java
+
+4. **Compile the Java files:**  
+   java Main
