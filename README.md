@@ -41,7 +41,7 @@ The entry point of the program.
 ## 🖥️ How to Run  
 1. **Clone this repository:**  
    ```sh
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/ChhandaviGowardhan/library-management-system.git
 
 2. **Navigate to the project directory:**  
    cd library-management-system
